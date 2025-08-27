@@ -39,6 +39,7 @@ The project showcases:
 
 - Ingress controller resides in `kube-system` but manages services across namespaces.
 - Traffic flows from public ALB → Ingress → Service → Pods.
+![65d5b018-2ca1-4b58-85ef-cfb9b96aa7b7](https://github.com/user-attachments/assets/85a2a9c9-4c4f-4f67-ad25-8abf7b879720)
 
 ---
 
