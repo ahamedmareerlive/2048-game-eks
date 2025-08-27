@@ -1,4 +1,4 @@
-# Game-2408 Kubernetes Project with AWS Load Balancer Controller
+# Game-2408 Kubernetes (Fargate) Project with AWS Load Balancer Controller
 
 This project demonstrates deploying a game application on **Amazon EKS** with an **ALB Ingress** setup. The Ingress Controller manages traffic routing to services running in different namespaces, making it accessible externally via AWS Application Load Balancer (ALB).
 
