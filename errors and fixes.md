@@ -1,4 +1,4 @@
-# ComCommmon EKS + kubeconfig Errors and Fixeson EKS + kubeconfig Errors and Fixes
+# Errors and Fixes
 
 ## a) Perma) Permission Denied on kubeconfigission Denied on kubeconfig
 
